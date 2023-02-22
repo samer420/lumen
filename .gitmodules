@@ -1,0 +1,8 @@
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/samer420/marketplace.git
+	branch = master
+[submodule "indirect"]
+	path = indirect
+	url = https://github.com/samer420/indirect.git
+	branch = master
